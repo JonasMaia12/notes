@@ -1,4 +1,4 @@
-![Cover](./public/cover.png)
+![Cover](./public/preview.svg)
 
 # NLW Expert (React)
 
